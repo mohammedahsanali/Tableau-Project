@@ -1,6 +1,6 @@
 # Tableau-Project
 
-# The Bike Haven Sales Dashboard
+# Revitalizing Sales Insights for The Bike Haven: A Tableau Dashboard Transformation
 
 Overview - 
 This project involves the creation of an interactive and informative sales dashboard for "The Bike Haven," a thriving bike shop located in San Francisco. The goal is to enhance online sales reports by transitioning from static reports to visually appealing and easy-to-interpret dashboards. The project was initiated by Chris, the sales manager at The Bike Haven, who aimed to gain deeper insights into sales performance and track various key metrics.
